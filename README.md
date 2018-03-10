@@ -1,4 +1,4 @@
-# terraform-docker-compose
+# terraform-docker
 
 ```
 $ docker-compose build
